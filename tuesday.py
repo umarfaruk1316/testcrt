@@ -1,1 +1,1 @@
-print("Tuesday")
+print("Tuesday class on git")
